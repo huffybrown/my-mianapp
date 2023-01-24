@@ -8,9 +8,7 @@ const  index =()=>{
   const handledchange=(e)=>{
     e.preventdefault()
     setUserInput(e.target.value)
-    console.log(userinput)
-  }
-  https://github.com/huffybrown/my-mianapp.git
+    console.log(useri
     const handleAdd=(e)=>{
     e.preventdefault()
     setUserInput(e.target.value)
