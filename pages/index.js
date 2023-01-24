@@ -16,7 +16,6 @@ const  index =()=>{
   }
   
 
-  return(
     <div className="todolist">
         <h1>nextjs todo list </h1>
         
